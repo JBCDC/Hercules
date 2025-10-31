@@ -1,0 +1,109 @@
+--- 
+title: "The Twelve Labors of Hercules"
+author: "José Becerra"
+date: "2025-10-29; revised: `r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  Musicalized Labors of Hercules
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# About {-}
+
+A cycle of songs woven as a musical tapestry, inspired by [Alice A. Bailey’s *The Twelve Labors of Hercules*](https://www.lucistrust.org/store/item/the_labours_hercules_astrological_interpretation). Lyrics are adapted from her book and set to music by José Becerra with the assistance of AI.
+
+
+The book frames the *Labors of Hercules* as the archetypal journey of the soul. Humanity slowly learns through cycles of discipline; one soul (Hercules) is chosen as the exemplar. He is prepared, tested, and given twelve tasks — each linked to a Portal — so that through service, sacrifice, and victory, his true divine nature may be revealed. 
+
+**Note**: The use of the masculine pronoun for the soul is symbolic and inclusive, for the soul itself is androgynous: projectively masculine in its relation to the personality, and receptively feminine in its relation to the Spirit.
+
+---
+
+# Who is Hercules? {-}
+
+Hercules is the disciple at the threshold — conscious of his dual nature, equipped with divine gifts, yet choosing also the humble weapon of his own making. The myth sets the stage for the *Twelve Labors* as the proving ground of his freedom, service, and soul‑revelation, both as an individual and collectively as Humanity.  
+
+Hercules stood before his Master, sensing an inner crisis that had changed his outlook and resolve. Asked his name, he replied “Heracles, or Hercules — the precious glory of Hera, the radiance of the soul.” He questioned the Master about the soul, who told him it would be revealed through his work. Hercules acknowledged his dual parentage — divine father and earthly mother — and spoke of his twin nature: one mortal, one divine.  
+
+He recounted his education, mastery of arts and sciences, and his search for self‑knowledge. He confessed that in his quest for freedom he had “slain his teachers,” symbolizing the rejection of old authorities, and now sought truth within himself. The Master affirmed this as wisdom but warned that his freedom would be tested again: by the lion (Leo), by the slain teachers (Gemini), and by desire (Scorpio). Hercules must prove his words through service, not boast of them.  
+
+The Presiding One in the Council instructed that the gods be summoned to equip the new disciple. Each deity bestowed a symbolic gift:
+
+- **Minerva** gave a finely woven tunic (wisdom and protection).  
+- **Vulcan** forged a golden breastplate (strength of heart).  
+- **Neptune** offered two powerful horses (control of forces).  
+- **Mercury** presented a silver‑sheathed sword (discrimination and skill).
+- **Apollo** gave a radiant bow of light (spiritual vision, to be mastered through many trials).  
+
+Hercules received these gifts with youthful pride, boasting of his strength. But then he paused, laid aside the divine weapons, and returned from the forest carrying a simple wooden club of his own making. “This is my gift,” he declared, “my own tool, born of my effort. With this I will prove my deeds.”  
+
+Only then did the Master say: *“Go forth to your work.”*
+
+---
+
+# Prelude {-} 
+
+<center>
+[*Prelude* musicalized by José Becerra](https://ngsm.org/mp3/Prelude.mp3)
+</center>
+
+<center>
+
+<audio controls>
+  <source src="https://ngsm.org/mp3/Prelude.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</center>
+
+[Verse 1]
+The One who presides looked forth from above,
+He saw the sons of men, the sons of God.
+Their light was faint, yet a spark was there,
+They stood on the Path that returns to the Heart.
+
+[Pre-Chorus]
+The circle turns, the portals swing wide,
+Cycle on cycle, they open, they hide.
+
+[Chorus]
+Walk on, O man, through the twelvefold gate.
+Step by step, though the learning is late,
+Through shadow and trial, the Cross shall arise,
+And love will redeem in the Ancient One’s eyes.
+
+[Bridge]
+A voice from the Council, eternal and strong:
+“Who is this soul that struggles along?”
+The answer returned: “A seeker of light,
+A fighter who yearns for the vision of right.
+Let him be guided, his footsteps be known,
+When heart, mind, and hand are ready, bring him home.”
+
+[Verse 2]
+The ages rolled on, the wheel turned again,
+The sons of men sought the mountain’s end.
+One stood forth with a will to serve,
+To climb the Cross with a heart that swelled.
+
+[Pre-Chorus]
+The Master spoke: “Prepare the way,
+Through portals of labor, through trials obey.”
+
+[Final Chorus (repeat, crescendo)]
+Walk on, O man, through the twelvefold gate,
+Step by step, though the learning is late.
+Through shadow and trial, the Cross shall arise,
+And love will redeem in the Ancient One’s eyes.
+
+[Outro: gentle, fading]
+Walk on, O man… walk on, O man…
+Till the Path is complete, and the world is healed by the Heart.
+
+
+
